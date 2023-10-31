@@ -1,0 +1,45 @@
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\obj\Debug\net7.0\Digital Solution.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\obj\Debug\net7.0\Digital Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\obj\Debug\net7.0\Digital Solution.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\obj\Debug\net7.0\Digital Solution.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\obj\Debug\net7.0\Digital Solution.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\Digital Solution.exe
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\Digital Solution.deps.json
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\Digital Solution.runtimeconfig.json
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\Digital Solution.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\Digital Solution.pdb
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\Emgu.CV.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\obj\Debug\net7.0\Digital Solution.csproj.CopyComplete
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\obj\Debug\net7.0\Digital Solution.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\obj\Debug\net7.0\refint\Digital Solution.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\obj\Debug\net7.0\Digital Solution.pdb
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\obj\Debug\net7.0\Digital Solution.genruntimeconfig.cache
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\obj\Debug\net7.0\ref\Digital Solution.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-arm64\native\cvextern.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x64\native\cvextern.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x64\native\opencv_videoio_ffmpeg481_64.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x86\native\cvextern.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x86\native\opencv_videoio_ffmpeg481.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-arm64\native\concrt140.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x64\native\concrt140.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x86\native\concrt140.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\rodri\source\repos\Digital Solution\Digital Solution\bin\Debug\net7.0\runtimes\win-x86\native\vcruntime140.dll
