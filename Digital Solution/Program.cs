@@ -8,6 +8,7 @@ class Program
     {
         GetFrames();
         RunAnalysis();
+        Console.WriteLine("Se ha finalizado el proceso la imagen se encuentra en la carpeta del proyecto.");
     }
 
     static void GetFrames()
@@ -54,6 +55,7 @@ class Program
                 }
             }
         }
+        Console.WriteLine("se ha obtenido los frames correspondientes.");
 
     }
 
@@ -151,6 +153,7 @@ class Program
 
         // Display the final accumulated differences image
         CvInvoke.Imshow("Final facial differences image", accumulatedDiffImage);
+        Console.WriteLine("Se a finalizado el proceso de analisis y se creo el archivo correspondiente .");
     }
 }
 
